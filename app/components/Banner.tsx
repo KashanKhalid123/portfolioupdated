@@ -25,7 +25,7 @@ const Banner = () => {
           WEB DEVELOPER
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-          am a Highly motivated and results-oriented full stack developer with a
+          I am a Highly motivated and results-oriented full stack developer with a
           proven ability to design, develop, and implement complex web
           applications using Typescript. Skilled in all stages of the software
           development lifecycle, from initial requirements gathering to
